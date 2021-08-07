@@ -5,4 +5,7 @@ The relation between the variable is listed below : <br>
 ## Membership Functions
 The membership functions that are used for this problem :
 ![Alt text](https://github.com/alizindari/Fuzzy-controller-for-parking-car/blob/main/membership.PNG?raw=true "Optional Title")
+## Results
+The goal is to park the car at a specific position and at the PI angle = 90. <br>
+Results show that this algorithms is working correctly.
 ![Alt text](https://github.com/alizindari/Fuzzy-controller-for-parking-car/blob/main/im1.PNG?raw=true "Optional Title")
